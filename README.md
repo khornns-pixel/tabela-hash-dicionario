@@ -1,4 +1,5 @@
 Sistema de Dicionário com Tabela Hash em C
+
 Este projeto consiste em um sistema de dicionário desenvolvido na linguagem C utilizando a estrutura de dados de Tabela Hash com tratamento de colisões por meio de Listas Encadeadas.
 
 Tecnologias e Conceitos Implementados
